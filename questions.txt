@@ -1,0 +1,398 @@
+What is the size of an `int` in C++?
+1. 2 bytes
+2. 4 bytes
+3. 1 byte
+4. 8 bytes
+1
+
+What does the `sizeof()` operator in C++ do?
+1. Returns the size of a variable
+2. Returns the size of an array
+3. Returns the size of a data type
+4. None of the above
+3
+
+Which header file is required for using input/output streams in C++?
+1. `<iostream>`
+2. `<io>`
+3. `<input>`
+4. `<out>`
+1
+
+What is the output of `cout << "Hello, World!";` in C++?
+1. Hello, World!
+2. "Hello, World!"
+3. No output
+4. Compilation error
+1
+
+What is the default value of a `bool` variable in C++?
+1. `true`
+2. `false`
+3. `0`
+4. `1`
+2
+
+What does the `return 0;` statement do in C++?
+1. Exits the program with an error
+2. Exits the program successfully
+3. Exits the program with a warning
+4. Returns a value to the calling function
+2
+
+How do you declare a constant variable in C++?
+1. `const int a = 10;`
+2. `const int a(10);`
+3. `int const a = 10;`
+4. `const int const a = 10;`
+1
+
+What does the `delete` operator do in C++?
+1. Deletes a variable
+2. Deletes an array
+3. Deletes a pointer
+4. Deletes a function
+3
+
+What is a pointer in C++?
+1. A variable that stores the address of another variable
+2. A variable that stores a constant value
+3. A variable that stores an array
+4. A variable that stores a function
+1
+
+What is a reference in C++?
+1. An alias for another variable
+2. A constant pointer
+3. A pointer that cannot be reassigned
+4. A constant reference to an object
+1
+
+What does the `break` statement do in C++?
+1. Ends the current loop
+2. Exits the program
+3. Starts a new loop
+4. Pauses the loop
+1
+
+What is an array in C++?
+1. A collection of variables of the same type
+2. A collection of variables of different types
+3. A collection of pointers
+4. A collection of constants
+1
+
+What does `++i` do in C++?
+1. Increments `i` by 1
+2. Decrements `i` by 1
+3. Sets `i` to 1
+4. Sets `i` to 0
+1
+
+How do you declare a string in C++?
+1. `string s = "Hello";`
+2. `char s[] = "Hello";`
+3. `std::string s = "Hello";`
+4. `char s = "Hello";`
+3
+
+What is a stack in data structures?
+1. A data structure with a FIFO order
+2. A data structure with a LIFO order
+3. A data structure with dynamic size
+4. A data structure with fixed size
+2
+
+What does `sizeof(int)` return?
+1. The size of an `int` variable in bytes
+2. The size of a `long` variable in bytes
+3. The size of a `float` variable in bytes
+4. The size of a `char` variable in bytes
+1
+
+What is a `null` pointer in C++?
+1. A pointer that does not point to any object
+2. A pointer that points to a constant value
+3. A pointer that points to a function
+4. A pointer that points to an array
+1
+
+What is the size of an `int` in C++?  
+1. 2 bytes  
+2. 4 bytes  
+3. 1 byte  
+4. 8 bytes  
+1  
+
+What does the `sizeof()` operator in C++ do?  
+1. Returns the size of a variable  
+2. Returns the size of an array  
+3. Returns the size of a data type  
+4. None of the above  
+3  
+
+Which of the following is not a linear data structure?  
+1. Array  
+2. Queue  
+3. Graph  
+4. Stack  
+3  
+
+What does STL stand for in C++?  
+1. Standard Template Library  
+2. System Template Library  
+3. Simple Template Library  
+4. Structured Template Library  
+1  
+
+Which keyword is used to define a class in C++?  
+1. struct  
+2. class  
+3. define  
+4. type  
+2  
+
+What is the primary use of a constructor in C++?  
+1. Initialize objects  
+2. Destroy objects  
+3. Allocate memory  
+4. None of the above  
+1  
+
+What is the default access modifier for members of a class in C++?  
+1. public  
+2. private  
+3. protected  
+4. none  
+2  
+
+Which data structure is used in recursion?  
+1. Stack  
+2. Queue  
+3. Array  
+4. Linked List  
+1  
+
+Which of the following is a self-balancing binary search tree?  
+1. AVL Tree  
+2. Binary Tree  
+3. Binary Search Tree  
+4. Heap  
+1  
+
+Which operation has O(1) complexity in a stack?  
+1. Insertion  
+2. Search  
+3. Traversal  
+4. Sorting  
+1  
+
+Which container in STL stores unique elements in sorted order?  
+1. vector  
+2. map  
+3. set  
+4. list  
+3  
+
+What is the correct syntax to include a header file in C++?  
+1. #include "file.h"  
+2. #include <file.h>  
+3. Both A and B  
+4. None of the above  
+3  
+
+What is the result of `10 % 3` in C++?  
+1. 1  
+2. 2  
+3. 0  
+4. 3  
+1  
+
+Which of the following is not a C++ data type?  
+1. int  
+2. float  
+3. number  
+4. char  
+3  
+
+Which of the following is a divide-and-conquer algorithm?  
+1. Merge Sort  
+2. Bubble Sort  
+3. Insertion Sort  
+4. Selection Sort  
+1  
+
+Which operator is used to allocate memory dynamically in C++?  
+1. new  
+2. malloc  
+3. alloc  
+4. create  
+1  
+
+What is the use of the keyword `this` in C++?  
+1. Pointer to the current object  
+2. Pointer to the base class  
+3. Pointer to the parent class  
+4. None of the above  
+1  
+
+Which of the following is not a feature of C++?  
+1. Object-Oriented Programming  
+2. Platform Independence  
+3. Encapsulation  
+4. Polymorphism  
+2  
+
+Which of the following algorithms is used for finding the shortest path in a graph?  
+1. Prim's Algorithm  
+2. Kruskal's Algorithm  
+3. Dijkstra's Algorithm  
+4. Bellman-Ford Algorithm  
+3  
+
+Which data structure works on the principle of FIFO?  
+1. Stack  
+2. Queue  
+3. Deque  
+4. Heap  
+2  
+
+Which function is used to read a line of text in C++?  
+1. read()  
+2. getline()  
+3. scanf()  
+4. cin  
+2  
+
+What is the maximum number of children a node can have in a binary tree?  
+1. 1  
+2. 2  
+3. 3  
+4. 4  
+2  
+
+Which of the following is not a binary tree traversal technique?  
+1. Inorder  
+2. Preorder  
+3. Postorder  
+4. Level-order  
+4  
+
+What is the default value of a global integer in C++?  
+1. 0  
+2. Garbage Value  
+3. null  
+4. None of the above  
+1  
+
+Which sorting algorithm uses a pivot element?  
+1. Merge Sort  
+2. Quick Sort  
+3. Heap Sort  
+4. Selection Sort  
+2  
+
+What is the output of `sizeof(char)` in C++?  
+1. 1  
+2. 2  
+3. 4  
+4. 8  
+1  
+
+Which of the following is not a type of linked list?  
+1. Singly Linked List  
+2. Doubly Linked List  
+3. Circular Linked List  
+4. Quadratic Linked List  
+4  
+
+Which keyword is used to handle exceptions in C++?  
+1. try  
+2. catch  
+3. throw  
+4. All of the above  
+4  
+
+What does the `delete` operator do in C++?  
+1. Deletes a pointer  
+2. Deletes an object  
+3. Frees dynamically allocated memory  
+4. None of the above  
+3  
+
+Which data structure is best suited for implementing a priority queue?  
+1. Array  
+2. Linked List  
+3. Heap  
+4. Stack  
+3  
+
+What is the worst-case time complexity of searching in a hash table?  
+1. O(1)  
+2. O(log n)  
+3. O(n)  
+4. O(n^2)  
+3  
+
+Which of the following is an abstract data type?  
+1. Queue  
+2. Array  
+3. Hash Table  
+4. Binary Tree  
+1  
+
+What is the maximum number of edges in a simple undirected graph with `n` vertices?  
+1. n  
+2. n^2  
+3. n(n-1)/2  
+4. n^2 - n  
+3  
+
+Which of the following is used to traverse a graph?  
+1. DFS  
+2. BFS  
+3. Both A and B  
+4. None of the above  
+3  
+
+Which of the following is not a hashing technique?  
+1. Linear Probing  
+2. Quadratic Probing  
+3. Double Hashing  
+4. Binary Search  
+4  
+
+What does the term "polymorphism" mean in C++?  
+1. Many objects  
+2. Many classes  
+3. Many forms  
+4. None of the above  
+3  
+
+What is the primary use of a destructor in C++?  
+1. Initialize objects  
+2. Free resources  
+3. Allocate memory  
+4. None of the above  
+2  
+
+Which of the following is a self-referential class?  
+1. A class that has an object of another class  
+2. A class that has a pointer to itself  
+3. A class that inherits from another class  
+4. None of the above  
+2  
+
+What does the keyword `const` signify in C++?  
+1. The variable is constant  
+2. The value can change  
+3. A function can modify its arguments  
+4. None of the above  
+1  
+
+Which of the following algorithms is used for cycle detection in a graph?  
+1. DFS  
+2. BFS  
+3. Union-Find  
+4. All of the above  
+4  
